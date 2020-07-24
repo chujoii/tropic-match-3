@@ -9,6 +9,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="/home/chujoii/project/www.doudougames.ru/tropic-match-3/src/buy_buster.png"
    sodipodi:docname="buy_buster.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
@@ -458,7 +461,7 @@
     </filter>
   </defs>
   <sodipodi:namedview
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:window-maximized="1"
      inkscape:window-y="21"
      inkscape:window-x="0"
@@ -467,11 +470,11 @@
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer9"
      inkscape:document-units="mm"
-     inkscape:cy="639.71514"
-     inkscape:cx="1032.0443"
-     inkscape:zoom="0.37773951"
+     inkscape:cy="625.36108"
+     inkscape:cx="1243.6824"
+     inkscape:zoom="0.42051704"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -487,7 +490,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
@@ -523,6 +526,13 @@
      id="layer8"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+       id="rect1112"
+       width="508"
+       height="285.75"
+       x="0"
+       y="0" />
     <g
        id="g4429">
       <rect
@@ -967,11 +977,13 @@
      inkscape:groupmode="layer"
      style="display:inline" />
   <g
+     style="mix-blend-mode:normal"
      inkscape:label="3 buttun buy"
      id="layer3"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <g
-       transform="rotate(-30,554.79569,505.45041)"
+       transform="rotate(-30,808.07341,573.31646)"
        id="g1047-3"
        style="display:inline">
       <g
@@ -1197,7 +1209,7 @@
       </g>
     </g>
     <g
-       transform="translate(0,-0.49527527)"
+       transform="translate(0,-0.49527523)"
        id="g1119">
       <path
          sodipodi:nodetypes="cccscccccc"
@@ -1271,11 +1283,11 @@
        style="fill:#000000;fill-opacity:0.216075;stroke-width:1.23239;filter:url(#filter1238)" />
   </g>
   <g
+     sodipodi:insensitive="true"
      inkscape:label="4 buttun cancel"
      id="layer4"
      inkscape:groupmode="layer"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <ellipse
        transform="rotate(-2.149411,-86.672756,8.755304)"
        cy="64.509338"
@@ -1528,11 +1540,11 @@
     </g>
   </g>
   <g
+     sodipodi:insensitive="true"
      inkscape:label="5 text"
      id="layer5"
      inkscape:groupmode="layer"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g1431"
        transform="translate(0,1.0583333)">
@@ -1573,19 +1585,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#8c6306;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="116.94188"
-       y="170.20792"
+       x="136.74265"
+       y="163.04106"
        id="text220"><tspan
          sodipodi:role="line"
-         id="tspan218"
-         x="116.94188"
-         y="170.20792"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#8c6306;fill-opacity:1;stroke-width:0.264583px">А ну-ка песню нам пропой, весёлый ветер,</tspan><tspan
-         sodipodi:role="line"
-         x="116.94188"
-         y="186.44948"
+         x="136.74265"
+         y="163.04106"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#8c6306;fill-opacity:1;stroke-width:0.264583px"
-         id="tspan222">Весёлый ветер, весёлый ветер!</tspan></text>
+         id="tspan222">Как ветром сдуло:</tspan><tspan
+         id="tspan1244"
+         sodipodi:role="line"
+         x="136.74265"
+         y="179.28262"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#8c6306;fill-opacity:1;stroke-width:0.264583px">Очищает несколько рядов клеток</tspan></text>
     <text
        xml:space="preserve"
        id="text1047"
@@ -1595,8 +1607,7 @@
      inkscape:label="9 buster"
      id="layer9"
      inkscape:groupmode="layer"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g1061">
       <rect
@@ -1781,7 +1792,7 @@
     </g>
     <g
        id="g1148"
-       transform="matrix(0.34441023,0.02829186,-0.02638807,0.32123462,103.37967,25.105103)">
+       transform="matrix(0.34441023,0.02829186,-0.02638807,0.32123462,340.19919,31.725336)">
       <g
          id="g1058"
          transform="matrix(0.74797779,0,0,0.80194103,176.6465,-59.491679)">
@@ -1859,5 +1870,15 @@
        id="path1152"
        d="m 314.59333,72.335199 c -0.048,0.03568 -6.23075,-7.978817 -6.27871,-7.943133 v 0 c -22.49322,16.71377 -43.16894,28.903858 -60.42345,34.958178 v 0 c -7.12979,2.501726 -13.13284,3.756806 -18.0123,4.039446 v 0 c -4.52206,0.26195 -7.69922,-0.3323 -9.82033,-1.19064 v 0 c -0.99552,-0.40285 -1.76246,-0.86436 -2.35389,-1.33286 v 0 c -0.57349,-0.45429 -1.03493,-0.956616 -1.40118,-1.509973 v 0 c -0.72028,-1.088229 -1.20838,-2.554494 -1.1625,-4.582998 v 0 c 0.0444,-1.96331 0.6191,-4.346762 1.96941,-6.875987 v 0 c 1.2977,-2.430675 3.27692,-4.920887 6.00387,-7.117292 l 1e-5,-7e-6 c 6.01323,-4.801946 12.2595,-7.802157 17.98237,-9.322996 v 0 c 2.76501,-0.734793 5.34163,-1.105948 7.63067,-1.186017 v 0 c 2.26944,-0.07938 4.15055,0.130428 5.60973,0.486201 v 0 c 1.47093,0.358639 2.28129,0.803825 2.72622,1.069959 l 0,2e-6 c 0.22684,0.135687 0.29544,0.180236 0.39706,0.213743 l 0,10e-7 c 0.0742,0.02447 0.15907,0.03157 0.22471,0.132655 l 0,2e-6 c 0.0664,0.102204 0.12363,0.323089 0.0596,0.719674 v 0 c -0.064,0.396403 -0.24801,0.94656 -0.63973,1.639432 v 0 c -0.79502,1.406219 -2.33592,3.208429 -4.94387,5.262438 l 0,10e-7 c -2.7477,2.153588 -5.15104,3.771845 -7.22662,4.967366 v 0 c -2.08521,1.201073 -3.79869,1.952015 -5.17369,2.403335 h 0 c -1.38442,0.454409 -2.36237,0.584816 -3.01467,0.60975 l 0,0 c -0.57737,0.02207 -1.03571,-0.0394 -1.19295,-0.07103 v 0 c -0.2259,-0.04545 -0.46961,-0.145047 -0.6706,-0.501433 v 0 c -0.20451,-0.362628 -0.32135,-0.938432 -0.22952,-1.684185 v 0 c 0.0927,-0.752799 0.39095,-1.612275 0.92688,-2.482932 l 0,-5e-6 c 0.54636,-0.887595 1.32421,-1.76161 2.33604,-2.532238 l 0,-10e-7 c 1.1738,-0.876852 2.01616,-1.435987 2.63772,-1.807598 v 0 c 0.32043,-0.191577 0.54389,-0.310839 0.72411,-0.406736 v 0 c 0.1753,-0.09328 0.27108,-0.143824 0.29848,-0.194028 l 0,0 c 0.0142,-0.02603 0.0109,-0.05186 -6.1e-4,-0.08517 l 0,-10e-7 c -0.0115,-0.03315 -0.0305,-0.07316 -0.0428,-0.115572 v 0 c -0.0128,-0.04405 -0.0174,-0.08615 -0.009,-0.120444 l 0,-10e-7 c 0.008,-0.03397 0.028,-0.05464 0.0544,-0.05705 v 0 c 0.0561,-0.0051 0.12411,0.06806 0.17438,0.195924 v 0 c 0.0519,0.132049 0.0822,0.3101 0.0911,0.516058 v 0 c 0.0186,0.428551 -0.0566,0.95281 -0.17034,1.459195 v 0 c -0.12185,0.542739 -0.28981,1.081774 -0.44427,1.529558 v 0 c -0.38341,1.111458 -0.64746,1.664754 -0.64746,1.664754 0,0 0.39112,-0.468538 1.05445,-1.462286 v 0 c 0.26722,-0.40034 0.57996,-0.892424 0.87028,-1.406931 v 0 c 0.2645,-0.468757 0.54138,-1.010626 0.73078,-1.528328 v 0 c 0.0916,-0.250376 0.17244,-0.520958 0.21733,-0.794278 v 0 c 0.0433,-0.263651 0.0599,-0.568582 -0.006,-0.884093 v 0 c -0.0329,-0.157708 -0.0873,-0.322066 -0.17194,-0.485371 l 0,-4e-6 c -0.0842,-0.162373 -0.19569,-0.318408 -0.33755,-0.460796 v 0 c -0.14028,-0.140813 -0.30237,-0.260352 -0.48169,-0.357833 l 0,-2e-6 c -0.17658,-0.09598 -0.36468,-0.16781 -0.55846,-0.219208 l 0,-10e-7 c -0.37817,-0.100305 -0.78706,-0.125437 -1.208,-0.09693 v 0 c -0.41585,0.02816 -0.86854,0.110283 -1.35987,0.244783 v 0 c -0.95704,0.261983 -2.11709,0.73832 -3.5337,1.482807 l 0,-10e-7 c -1.50491,0.802924 -2.82645,1.817345 -3.91339,2.988477 l 0,7e-6 c -1.05834,1.140316 -1.90877,2.446167 -2.46021,3.849292 v 0 c -0.53846,1.370094 -0.81413,2.895452 -0.64,4.446728 v 0 c 0.17383,1.548602 0.79989,3.107759 2.00975,4.415354 v 0 c 1.19518,1.29173 2.81067,2.175487 4.69246,2.618814 l 1e-5,2e-6 c 1.84566,0.434814 3.92985,0.445446 6.19007,0.05985 h 0 c 2.25225,-0.384236 4.74176,-1.171829 7.46459,-2.399128 v 0 c 2.71924,-1.225683 5.70341,-2.904416 8.95945,-5.100471 l 0,10e-7 c 3.38856,-2.293631 6.10453,-4.72818 8.02452,-7.315953 v 0 c 0.97068,-1.308283 1.76876,-2.697316 2.33371,-4.165196 v 0 c 0.56876,-1.477785 0.90011,-3.034406 0.92496,-4.637656 l 0,-1.8e-5 c 0.025,-1.614932 -0.26285,-3.193347 -0.84367,-4.684224 l -10e-6,-1.8e-5 c -0.57994,-1.488642 -1.42221,-2.815137 -2.43074,-3.969517 l -1e-5,-1.3e-5 c -2.00886,-2.299389 -4.68043,-3.929574 -7.51034,-5.022957 v 0 c -2.88779,-1.115748 -6.14533,-1.755717 -9.57263,-1.954093 v 0 c -3.49238,-0.202142 -7.23872,0.04899 -11.1029,0.771732 v 0 c -7.99241,1.494876 -16.48878,5.002096 -24.55992,10.768252 l -1e-5,8e-6 c -4.5659,3.275891 -8.21834,7.249636 -10.86293,11.529897 v 0 c -2.72881,4.416561 -4.43757,9.245708 -4.91978,14.10089 v 0 c -0.5047,5.081643 0.33688,10.222505 2.78793,14.825295 v 0 c 1.2632,2.37216 2.91247,4.52018 4.90824,6.38776 v 0 c 2.04762,1.91612 4.40375,3.48517 6.98867,4.71089 v 0 c 5.40253,2.56179 11.65402,3.58003 18.39521,3.38582 v 0 c 7.2494,-0.20885 15.19604,-1.8315 23.62878,-4.64737 v 0 c 20.15939,-6.73163 42.88946,-20.192126 66.09817,-37.43754 v 0 c 0.049,-0.03645 -5.84274,-8.267336 -5.79369,-8.303781 z"
        style="fill:url(#radialGradient1192);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.84685;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="rotate(1.1532099,57.080103,-97.850239)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="g1116">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+         d="m 314.307,59.337803 c -7.63837,0.436458 -9.0838,10.404909 1.66696,9.554607 10.75073,-0.850305 25.18747,-18.755724 -3.63891,-18.363989 -28.82638,0.391734 -53.10389,35.377338 -12.14473,34.331396 40.95915,-1.045942 14.744,9.331294 -13.05423,10.136019 34.41153,9.625284 81.93816,-11.350656 97.00558,-16.916241 15.06742,-5.565584 -24.91761,-2.74227 -6.03932,-13.361564 18.87829,-10.619294 -21.39913,2.932055 -7.62083,-10.783578 13.77831,-13.715633 -24.56107,12.822999 -17.22986,-3.179434 7.33121,-16.002433 -18.38656,10.095839 -28.78021,0.91652"
+         id="path290"
+         sodipodi:nodetypes="cszzczzzzc" />
+    </g>
   </g>
 </svg>
